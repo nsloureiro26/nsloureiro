@@ -1,14 +1,15 @@
-# Hy guys! I'm Nayara Loureiro.
+# Hello! I'm Nayara Loureiro 🖖
 
-⚖️ I'm a lawyer, but I'm in career transition phase 💫
-I like study about technologies, read books, in other words, I'm a NERD 🤓 📚
+⚖️ I'm a lawyer, but I'm in career transition phase 💫 <br>
+I like study about technologies, read books, in other words, I'm a NERD 🤓 📚 <br>
 I'm currently learning about .NET Core, AWS.
+<br>
 
 
 <div>
    <a href="https://github.com/nsloureiro26">
-      <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=nsloureiro26&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-      <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nsloureiro26&layout=compact&langs_count=7&theme=dark" />
+      <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=nsloureiro26&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nsloureiro26&layout=compact&langs_count=7&theme=dark"/>
 <hr>  
 
    <h3> Contados</h3>
